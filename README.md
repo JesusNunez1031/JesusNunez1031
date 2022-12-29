@@ -6,8 +6,8 @@ Software QA Engineer
 
 Continuous Learning / Continuous Developing
 
-* 🌍  I'm based in Los Angeles
-* 🧠  I'm learning Web Development
+* 🌍  Los Angeles
+* 🧠  Currently Working on Web Development
 
 ### Skills
 
